@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  4 ls
    5 ls -l
    6 python testing.py
@@ -22,3 +23,6 @@
   25 ls
   26 git status
   27 history
+=======
+This is new line
+>>>>>>> 384659ec6b21713c1c7d114b454c72d6f0616daf
