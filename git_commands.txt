@@ -1,1 +1,28 @@
+<<<<<<< HEAD
+ 4 ls
+   5 ls -l
+   6 python testing.py
+   7 python testing.py
+   8 python testing.py
+   9 rm testing.py
+  10 git init
+  11 dir
+  12 ls
+  13 git status
+  14 dir
+  15 git status
+  16 t add testing.py
+  17 git add testing.py
+  18 git status
+  19 git commit -m"Added testing file"
+  20 git status
+  21 rm testing.py
+  22 git status
+  23 git restore
+  24 git restore testing.py
+  25 ls
+  26 git status
+  27 history
+=======
 This is new line
+>>>>>>> 384659ec6b21713c1c7d114b454c72d6f0616daf
